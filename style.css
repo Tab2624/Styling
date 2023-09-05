@@ -1,0 +1,25 @@
+h1 {
+    background-color: black;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.white{
+    color: white;
+}
+
+.blue{
+    color: lightblue;
+}
+
+h2{
+    background: rebeccapurple;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+h3{
+    background-color: skyblue;
+    text-decoration: underline;
+    text-align: right;
+}
